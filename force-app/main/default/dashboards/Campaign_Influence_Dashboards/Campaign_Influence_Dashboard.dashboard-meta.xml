@@ -572,7 +572,7 @@
     <isGridLayout>true</isGridLayout>
     <!-- <runningUser>test-xfwcln0igygs@example.com</runningUser> -->
     <textColor>#000000</textColor>
-    <title>Campaign Influence Dashboard (Lightning)</title>
+    <title>Campaign Influence Dashboard</title>
     <titleColor>#000000</titleColor>
     <titleSize>12</titleSize>
 </Dashboard>
