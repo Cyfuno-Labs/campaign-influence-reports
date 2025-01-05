@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true, 
+      "definitionFile": "config/project-scratch-def.json"
+    },
+    {
+      "path": "dev-app",
+      "default": false, 
+      "definitionFile": "config/project-scratch-def.json"
+    }
+  ],
+  "name": "campaign-influence-reports",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0"
+}

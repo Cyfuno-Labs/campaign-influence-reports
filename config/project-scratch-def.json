@@ -1,0 +1,15 @@
+{
+  "orgName": "Cyfuno - Campaigns",
+  "edition": "Developer",
+  "hasSampleData": true,
+  "features": ["SalesUser", "ServiceCloud", "MarketingUser", "PardotScFeaturesCampaignInfluence"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled":true
+    },
+    "campaignSettings": {
+      "enableCampaignInfluence2": true,
+      "enableB2bmaCampaignInfluence2": true
+    }
+  }
+}
