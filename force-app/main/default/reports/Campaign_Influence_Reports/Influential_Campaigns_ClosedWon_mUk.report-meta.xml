@@ -64,18 +64,18 @@
     </columns>
     <filter>
         <criteriaItems>
-            <column>OPP.STAGE_NAME</column>
-            <columnToColumn>false</columnToColumn>
-            <isUnlocked>true</isUnlocked>
-            <operator>equals</operator>
-            <value>Closed Won</value>
-        </criteriaItems>
-        <criteriaItems>
             <column>MODEL.NAME</column>
             <columnToColumn>false</columnToColumn>
             <isUnlocked>true</isUnlocked>
             <operator>contains</operator>
             <value>Even</value>
+        </criteriaItems>
+        <criteriaItems>
+            <column>OPP.WON</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>1</value>
         </criteriaItems>
     </filter>
     <format>Summary</format>
@@ -87,7 +87,7 @@
     <name>Influential Campaigns - Closed/Won</name>
     <params>
         <name>scopeid</name>
-        <value/>
+        <value></value>
     </params>
     <params>
         <name>co</name>
