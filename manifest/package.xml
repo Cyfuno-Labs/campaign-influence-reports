@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Campaign_Influence_Dashboards/Campaign_Influence_Dashboard</members>
+		<name>Dashboard</name>
+	</types>
+	<types>
+		<members>Campaign_Influence_Reports/Closed_Won_Even_Distribution_lqV</members>
+		<members>Campaign_Influence_Reports/Closed_Won_First_Touch_jsp</members>
+		<members>Campaign_Influence_Reports/Closed_Won_Last_Touch_wn0</members>
+		<members>Campaign_Influence_Reports/Created_Even_Distribution_jFo</members>
+		<members>Campaign_Influence_Reports/Created_First_Touch_P7j</members>
+		<members>Campaign_Influence_Reports/Created_Last_Touch_uzV</members>
+		<members>Campaign_Influence_Reports/Influenced_Opps_by_Campaign_Type_YLL</members>
+		<members>Campaign_Influence_Reports/Influential_Campaigns_ClosedWon_mUk</members>
+		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Even_s7F</members>
+		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_First_exL</members>
+		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Last_sSw</members>
+		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Even_35j</members>
+		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_First_GEX</members>
+		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Last_hRx</members>
+		<name>Report</name>
+	</types>
+	<version>62.0</version>
+</Package>
