@@ -27,6 +27,12 @@
         <relatedTable>CampaignInfluence</relatedTable>
         <relatedTableJoinColumn>Opportunity</relatedTableJoinColumn>
     </crossFilters>
+    <crossFilters>
+        <operation>with</operation>
+        <primaryTableColumn>OPPORTUNITY_ID</primaryTableColumn>
+        <relatedTable>OCR-Contact</relatedTable>
+        <relatedTableJoinColumn>Opportunity</relatedTableJoinColumn>
+    </crossFilters>
     <customDetailFormulas>
         <calculatedFormula>1</calculatedFormula>
         <dataType>Double</dataType>
