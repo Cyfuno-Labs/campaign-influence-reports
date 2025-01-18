@@ -570,7 +570,6 @@
     <dashboardType>SpecifiedUser</dashboardType>
     <description>Set of Campaigns with Influenced Opportunities reports displaying various information on influenced and closed won opportunities.</description>
     <isGridLayout>true</isGridLayout>
-    <!-- <runningUser>test-xfwcln0igygs@example.com</runningUser> -->
     <textColor>#000000</textColor>
     <title>Campaign Influence Dashboard</title>
     <titleColor>#000000</titleColor>
