@@ -2,9 +2,18 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
 		<members>Campaign_Influence_Dashboards/Campaign_Influence_Dashboard</members>
+		<members>Campaign_Influence_Dashboards/Campaign_Influence_Troubleshooting</members>
 		<name>Dashboard</name>
 	</types>
 	<types>
+		<members>CampaignInfluenceTroubleshooting/Campaigns_with_Influence_Ifm</members>
+		<members>CampaignInfluenceTroubleshooting/Campaigns_with_Members_c4B</members>
+		<members>CampaignInfluenceTroubleshooting/Campaigns_without_Influence_q45</members>
+		<members>CampaignInfluenceTroubleshooting/Campaigns_without_Members_fK8</members>
+		<members>CampaignInfluenceTroubleshooting/Opps_With_Influence_rux</members>
+		<members>CampaignInfluenceTroubleshooting/Opps_Without_Influence_6T1</members>
+		<members>CampaignInfluenceTroubleshooting/Opps_with_Contact_Roles_uGU</members>
+		<members>CampaignInfluenceTroubleshooting/Opps_without_Contact_Roles_pab</members>
 		<members>Campaign_Influence_Reports/Closed_Won_Even_Distribution_lqV</members>
 		<members>Campaign_Influence_Reports/Closed_Won_First_Touch_jsp</members>
 		<members>Campaign_Influence_Reports/Closed_Won_Last_Touch_wn0</members>
