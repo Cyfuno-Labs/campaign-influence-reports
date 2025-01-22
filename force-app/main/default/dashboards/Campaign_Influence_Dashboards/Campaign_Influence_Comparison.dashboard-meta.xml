@@ -122,29 +122,43 @@
             <colSpan>3</colSpan>
             <columnIndex>0</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign Type</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_First_GEX</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>First Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>8</rowIndex>
             <rowSpan>9</rowSpan>
@@ -153,29 +167,43 @@
             <colSpan>3</colSpan>
             <columnIndex>3</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign Type</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Last_hRx</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Last Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>8</rowIndex>
             <rowSpan>9</rowSpan>
@@ -184,29 +212,43 @@
             <colSpan>3</colSpan>
             <columnIndex>6</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign Type</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Even_35j</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Even Distribution</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>8</rowIndex>
             <rowSpan>9</rowSpan>
@@ -239,12 +281,12 @@
                 <groupingSortProperties>
                     <groupingSorts>
                         <groupingLevel>g1</groupingLevel>
-                        <sortOrder>a</sortOrder>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign Type</header>
                 <legendPosition>Right</legendPosition>
-                <maxValuesDisplayed>6</maxValuesDisplayed>
                 <report>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Prim_gWn</report>
                 <showPercentage>false</showPercentage>
                 <showTotal>true</showTotal>
@@ -260,29 +302,43 @@
             <colSpan>3</colSpan>
             <columnIndex>0</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Created_First_Touch_P7j</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>First Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>17</rowIndex>
             <rowSpan>9</rowSpan>
@@ -291,29 +347,43 @@
             <colSpan>3</colSpan>
             <columnIndex>3</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Created_Last_Touch_uzV</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Last Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>17</rowIndex>
             <rowSpan>9</rowSpan>
@@ -322,29 +392,43 @@
             <colSpan>3</colSpan>
             <columnIndex>6</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Created_Even_Distribution_jFo</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Even Distribution</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>17</rowIndex>
             <rowSpan>9</rowSpan>
@@ -377,12 +461,12 @@
                 <groupingSortProperties>
                     <groupingSorts>
                         <groupingLevel>g1</groupingLevel>
-                        <sortOrder>a</sortOrder>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>All Influenced Pipeline by Campaign</header>
                 <legendPosition>Right</legendPosition>
-                <maxValuesDisplayed>6</maxValuesDisplayed>
                 <report>Campaign_Influence_Reports/Opps_Created_by_Campaign_Primary_RVc</report>
                 <showPercentage>false</showPercentage>
                 <showTotal>true</showTotal>
@@ -398,29 +482,43 @@
             <colSpan>3</colSpan>
             <columnIndex>0</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign Type</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_First_exL</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>First Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>26</rowIndex>
             <rowSpan>9</rowSpan>
@@ -429,29 +527,43 @@
             <colSpan>3</colSpan>
             <columnIndex>3</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Last_sSw</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Last Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>26</rowIndex>
             <rowSpan>9</rowSpan>
@@ -460,29 +572,43 @@
             <colSpan>3</colSpan>
             <columnIndex>6</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Even_s7F</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Even Distribution</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>26</rowIndex>
             <rowSpan>9</rowSpan>
@@ -515,12 +641,12 @@
                 <groupingSortProperties>
                     <groupingSorts>
                         <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
                         <sortOrder>a</sortOrder>
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
                 <legendPosition>Right</legendPosition>
-                <maxValuesDisplayed>6</maxValuesDisplayed>
                 <report>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Prim_1Vc</report>
                 <showPercentage>false</showPercentage>
                 <showTotal>true</showTotal>
@@ -536,29 +662,43 @@
             <colSpan>3</colSpan>
             <columnIndex>0</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Closed_Won_First_Touch_jsp</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>First Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>35</rowIndex>
             <rowSpan>9</rowSpan>
@@ -567,29 +707,43 @@
             <colSpan>3</colSpan>
             <columnIndex>3</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Closed_Won_Last_Touch_wn0</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Last Touch</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>35</rowIndex>
             <rowSpan>9</rowSpan>
@@ -598,29 +752,43 @@
             <colSpan>3</colSpan>
             <columnIndex>6</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
-                <componentType>Bar</componentType>
+                <chartSummary>
+                    <aggregate>Sum</aggregate>
+                    <axisBinding>y</axisBinding>
+                    <column>REVENUE_SHARE</column>
+                </chartSummary>
+                <componentType>Donut</componentType>
                 <dashboardFilterColumns>
                     <column>CAMPAIGN.CREATED_DATE</column>
                 </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>OPP.CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <drillEnabled>false</drillEnabled>
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingSortProperties/>
+                <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
+                <legendPosition>Right</legendPosition>
                 <report>Campaign_Influence_Reports/Closed_Won_Even_Distribution_lqV</report>
                 <showPercentage>false</showPercentage>
-                <showPicturesOnCharts>false</showPicturesOnCharts>
-                <showValues>false</showValues>
+                <showTotal>true</showTotal>
+                <showValues>true</showValues>
                 <sortBy>RowLabelAscending</sortBy>
                 <title>Even Distribution</title>
-                <useReportChart>true</useReportChart>
+                <useReportChart>false</useReportChart>
             </dashboardComponent>
             <rowIndex>35</rowIndex>
             <rowSpan>9</rowSpan>
@@ -653,12 +821,12 @@
                 <groupingSortProperties>
                     <groupingSorts>
                         <groupingLevel>g1</groupingLevel>
-                        <sortOrder>a</sortOrder>
+                        <sortColumn>s!REVENUE_SHARE</sortColumn>
+                        <sortOrder>d</sortOrder>
                     </groupingSorts>
                 </groupingSortProperties>
                 <header>Won Influenced Revenue by Campaign</header>
                 <legendPosition>Right</legendPosition>
-                <maxValuesDisplayed>6</maxValuesDisplayed>
                 <report>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Prim_gPM</report>
                 <showPercentage>false</showPercentage>
                 <showTotal>true</showTotal>
@@ -676,6 +844,8 @@
     <dashboardType>SpecifiedUser</dashboardType>
     <description>Side-by-Side comparison of influence by Model</description>
     <isGridLayout>true</isGridLayout>
+    <owner>support+pardotdev202312@cyfunolabs.com</owner>
+    <runningUser>support+pardotdev202312@cyfunolabs.com</runningUser>
     <textColor>#000000</textColor>
     <title>Campaign Influence - Model Comparison</title>
     <titleColor>#000000</titleColor>
