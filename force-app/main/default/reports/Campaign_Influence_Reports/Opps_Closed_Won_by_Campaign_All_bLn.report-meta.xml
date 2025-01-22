@@ -9,15 +9,16 @@
             <axisBinding>y</axisBinding>
             <column>REVENUE_SHARE</column>
         </chartSummaries>
-        <chartType>HorizontalBar</chartType>
+        <chartType>Donut</chartType>
         <enableHoverLabels>false</enableHoverLabels>
         <expandOthers>true</expandOthers>
         <groupingColumn>CAMPAIGN.NAME</groupingColumn>
+        <legendPosition>Right</legendPosition>
         <location>CHART_BOTTOM</location>
-        <showAxisLabels>true</showAxisLabels>
+        <showAxisLabels>false</showAxisLabels>
         <showPercentage>false</showPercentage>
-        <showTotal>false</showTotal>
-        <showValues>false</showValues>
+        <showTotal>true</showTotal>
+        <showValues>true</showValues>
         <size>Medium</size>
         <summaryAxisRange>Auto</summaryAxisRange>
         <textColor>#000000</textColor>
@@ -26,16 +27,7 @@
         <titleSize>18</titleSize>
     </chart>
     <columns>
-        <field>CAMPAIGN.TYPE</field>
-    </columns>
-    <columns>
-        <field>CM.RESPONDED</field>
-    </columns>
-    <columns>
-        <field>PRIMARY</field>
-    </columns>
-    <columns>
-        <field>CONTACT.FULL_NAME</field>
+        <field>ACCOUNT.NAME</field>
     </columns>
     <columns>
         <field>OPP.NAME</field>
@@ -47,13 +39,7 @@
         <field>OPP.STAGE_NAME</field>
     </columns>
     <columns>
-        <field>OPP.CLOSE_DATE</field>
-    </columns>
-    <columns>
-        <field>ACCOUNT.NAME</field>
-    </columns>
-    <columns>
-        <field>MODEL.NAME</field>
+        <field>CONTACT.FULL_NAME</field>
     </columns>
     <columns>
         <field>INFLUENCE</field>
@@ -62,13 +48,16 @@
         <aggregateTypes>Sum</aggregateTypes>
         <field>REVENUE_SHARE</field>
     </columns>
+    <columns>
+        <field>MODEL.NAME</field>
+    </columns>
     <filter>
         <criteriaItems>
-            <column>MODEL.NAME</column>
+            <column>OPP.WON</column>
             <columnToColumn>false</columnToColumn>
             <isUnlocked>true</isUnlocked>
-            <operator>contains</operator>
-            <value>Even</value>
+            <operator>equals</operator>
+            <value>1</value>
         </criteriaItems>
     </filter>
     <format>Summary</format>
@@ -77,7 +66,7 @@
         <field>CAMPAIGN.NAME</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
-    <name>All Influential Campaigns</name>
+    <name>Opps Closed Won by Campaign (All)</name>
     <params>
         <name>scopeid</name>
         <value></value>
