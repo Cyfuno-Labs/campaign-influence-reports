@@ -16,7 +16,18 @@
             <operator>equals</operator>
             <values>LAST_YEAR</values>
         </dashboardFilterOptions>
-        <name>Created Date</name>
+        <name>Campaign: Created Date</name>
+    </dashboardFilters>
+    <dashboardFilters>
+        <dashboardFilterOptions>
+            <operator>equals</operator>
+            <values>LAST_YEAR</values>
+        </dashboardFilterOptions>
+        <dashboardFilterOptions>
+            <operator>equals</operator>
+            <values>THIS_YEAR</values>
+        </dashboardFilterOptions>
+        <name>Opportunity: Created Date</name>
     </dashboardFilters>
     <dashboardGridLayout>
         <dashboardGridComponents>
@@ -64,6 +75,9 @@
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <groupingSortProperties/>
@@ -92,6 +106,9 @@
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <groupingSortProperties/>
@@ -117,6 +134,9 @@
                     <column>CDF1</column>
                 </chartSummary>
                 <componentType>Metric</componentType>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
@@ -159,6 +179,9 @@
                     <column>CDF1</column>
                 </chartSummary>
                 <componentType>Metric</componentType>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
@@ -218,6 +241,9 @@
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <groupingSortProperties/>
@@ -243,6 +269,9 @@
                     <column>CDF1</column>
                 </chartSummary>
                 <componentType>Metric</componentType>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
@@ -274,6 +303,9 @@
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <decimalPrecision>-1</decimalPrecision>
                 <displayUnits>Auto</displayUnits>
                 <groupingSortProperties/>
@@ -299,6 +331,9 @@
                     <column>CDF1</column>
                 </chartSummary>
                 <componentType>Metric</componentType>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
                 <dashboardFilterColumns>
                     <column>CREATED_DATE</column>
                 </dashboardFilterColumns>
