@@ -73,7 +73,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Campaigns_with_Members_c4B</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Campaigns_with_Members_c4B</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>1</rowIndex>
@@ -101,7 +101,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Campaigns_with_Influence_Ifm</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Campaigns_with_Influence_Ifm</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>1</rowIndex>
@@ -129,7 +129,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Campaigns_without_Members_fK8</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Campaigns_without_Members_fK8</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>1</rowIndex>
@@ -142,7 +142,7 @@
                 <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
                 <componentType>RichText</componentType>
                 <dashboardComponentContents>
-                    <richTextContent>[{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;20px\&amp;quot;,\&amp;quot;bold\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Improving Campaign Member Association\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Use Marketing Automation features to automatically associate people with Campaigns when Interacting with Assets.\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Use UTMs in URLs to automatically associate people to matching Campaigns. \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/appexchange.salesforce.com\/appxListingDetail?listingId=77d07526-d755-4431-9001-75963a71f286&amp;amp;utm_source=cyfuno&amp;amp;utm_medium=unmanaged-pkg&amp;amp;utm_content=influence-dashboard\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;AppExchange\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#020821\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Use Salesforce data to automatically add people to Campaigns with Campaign Audience Builder. \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/appexchange.salesforce.com\/appxListingDetail?listingId=a0N4V00000G5voCUAR\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;AppExchange\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;}]</richTextContent>
+                    <richTextContent>[{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;20px\&amp;quot;,\&amp;quot;bold\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Improving Campaign Member Association\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Use Marketing Automation features to automatically associate people with Campaigns when Interacting with Assets.\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Use UTMs in URLs to automatically associate people to matching Campaigns. \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/appexchange.salesforce.com\/appxListingDetail?listingId=77d07526-d755-4431-9001-75963a71f286&amp;amp;utm_source=cyfuno&amp;amp;utm_medium=unmanaged-pkg&amp;amp;utm_content=influence-dashboard\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;AppExchange\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#020821\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Use Salesforce data to automatically add people to Campaigns with Campaign Audience Builder. \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/appexchange.salesforce.com\/appxListingDetail?listingId=a0N4V00000G5voCUAR&amp;amp;utm_source=cyfuno&amp;amp;utm_medium=partner-app&amp;amp;utm_content=influence-dashboard\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;AppExchange\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;}]</richTextContent>
                 </dashboardComponentContents>
                 <groupingSortProperties/>
             </dashboardComponent>
@@ -171,7 +171,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Campaigns_without_Influence_q45</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Campaigns_without_Influence_q45</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>5</rowIndex>
@@ -227,7 +227,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Opps_with_Contact_Roles_uGU</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Opps_with_Contact_Roles_uGU</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>10</rowIndex>
@@ -255,7 +255,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Opps_With_Influence_rux</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Opps_With_Influence_rux</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>10</rowIndex>
@@ -283,7 +283,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Opps_without_Contact_Roles_pab</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Opps_without_Contact_Roles_pab</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>10</rowIndex>
@@ -311,7 +311,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
-                <report>CampaignInfluenceTroubleshooting/Opps_Without_Influence_6T1</report>
+                <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Opps_Without_Influence_6T1</report>
                 <showRange>false</showRange>
             </dashboardComponent>
             <rowIndex>14</rowIndex>
@@ -323,7 +323,7 @@
     <dashboardType>SpecifiedUser</dashboardType>
     <isGridLayout>true</isGridLayout>
     <textColor>#000000</textColor>
-    <title>Campaign Influence Troubleshooting</title>
+    <title>Campaign Influence - Troubleshooting</title>
     <titleColor>#000000</titleColor>
     <titleSize>12</titleSize>
 </Dashboard>
