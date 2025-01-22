@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>Campaign_Influence_Dashboards/Campaign_Influence_Dashboard</members>
+		<members>fullcolorlogopng</members>
+		<name>ContentAsset</name>
+	</types>
+	<types>
 		<members>Campaign_Influence_Dashboards/Campaign_Influence_Comparison</members>
+		<members>Campaign_Influence_Dashboards/Campaign_Influence_Example</members>
 		<members>Campaign_Influence_Dashboards/Campaign_Influence_Troubleshooting</members>
 		<name>Dashboard</name>
 	</types>
@@ -21,18 +25,22 @@
 		<members>Campaign_Influence_Reports/Created_Even_Distribution_jFo</members>
 		<members>Campaign_Influence_Reports/Created_First_Touch_P7j</members>
 		<members>Campaign_Influence_Reports/Created_Last_Touch_uzV</members>
-		<members>Campaign_Influence_Reports/Influenced_Opps_by_Campaign_Type_YLL</members>
-		<members>Campaign_Influence_Reports/Influential_Campaigns_ClosedWon_mUk</members>
+		<members>Campaign_Influence_Reports/Opportunities_with_Influence_All_pFD</members>
+		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_All_bLn</members>
 		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Prim_gPM</members>
+		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_All_8LN</members>
 		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Even_s7F</members>
 		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_First_exL</members>
 		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Last_sSw</members>
 		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Prim_1Vc</members>
+		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_All_4sq</members>
 		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Primary_RVc</members>
+		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_All_1BW</members>
 		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Even_35j</members>
 		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_First_GEX</members>
 		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Last_hRx</members>
 		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Prim_gWn</members>
+		<members>Campaign_Influence_Reports/Won_Opportunities_with_Influence_All_WBT</members>
 		<name>Report</name>
 	</types>
 	<version>62.0</version>
