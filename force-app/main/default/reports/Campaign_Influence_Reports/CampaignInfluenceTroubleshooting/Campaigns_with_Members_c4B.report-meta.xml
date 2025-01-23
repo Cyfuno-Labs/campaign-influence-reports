@@ -60,6 +60,15 @@
         <label>PowerOne</label>
         <scale>2</scale>
     </customDetailFormulas>
+    <filter>
+        <criteriaItems>
+            <column>NUM_CONTACTS</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>greaterThan</operator>
+            <value>0</value>
+        </criteriaItems>
+    </filter>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>
