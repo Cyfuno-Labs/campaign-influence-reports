@@ -22,6 +22,12 @@
         <field>CDF1</field>
     </columns>
     <crossFilters>
+        <criteriaItems>
+            <column>Model</column>
+            <isUnlocked>false</isUnlocked>
+            <operator>equals</operator>
+            <value>Even Distribution Model</value>
+        </criteriaItems>
         <operation>without</operation>
         <primaryTableColumn>OPPORTUNITY_ID</primaryTableColumn>
         <relatedTable>CampaignInfluence</relatedTable>
