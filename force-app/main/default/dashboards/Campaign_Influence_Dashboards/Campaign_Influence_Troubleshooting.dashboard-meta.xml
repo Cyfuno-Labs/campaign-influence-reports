@@ -87,6 +87,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
+                <metricLabel>Contacts, specifically</metricLabel>
                 <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Campaigns_with_Members_c4B</report>
                 <showRange>false</showRange>
             </dashboardComponent>
@@ -149,6 +150,7 @@
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#CA8501</indicatorMiddleColor>
+                <metricLabel>Contacts, specifically</metricLabel>
                 <report>Campaign_Influence_Reports/CampaignInfluenceTroubleshooting/Campaigns_without_Members_fK8</report>
                 <showRange>false</showRange>
             </dashboardComponent>
