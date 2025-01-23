@@ -844,8 +844,6 @@
     <dashboardType>SpecifiedUser</dashboardType>
     <description>Side-by-Side comparison of influence by Model</description>
     <isGridLayout>true</isGridLayout>
-    <owner>support+pardotdev202312@cyfunolabs.com</owner>
-    <runningUser>support+pardotdev202312@cyfunolabs.com</runningUser>
     <textColor>#000000</textColor>
     <title>Campaign Influence - Model Comparison</title>
     <titleColor>#000000</titleColor>
