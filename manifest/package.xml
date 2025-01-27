@@ -5,42 +5,42 @@
 		<name>ContentAsset</name>
 	</types>
 	<types>
-		<members>Campaign_Influence_Dashboards/Campaign_Influence_Comparison</members>
-		<members>Campaign_Influence_Dashboards/Campaign_Influence_Example</members>
-		<members>Campaign_Influence_Dashboards/Campaign_Influence_Troubleshooting</members>
+		<members>cfl_Campaign_Influence_Dashboards/cfl_Campaign_Influence_Comparison</members>
+		<members>cfl_Campaign_Influence_Dashboards/cfl_Campaign_Influence_Example</members>
+		<members>cfl_Campaign_Influence_Dashboards/cfl_Campaign_Influence_Troubleshooting</members>
 		<name>Dashboard</name>
 	</types>
 	<types>
-		<members>CampaignInfluenceTroubleshooting/Campaigns_with_Influence_Ifm</members>
-		<members>CampaignInfluenceTroubleshooting/Campaigns_with_Members_c4B</members>
-		<members>CampaignInfluenceTroubleshooting/Campaigns_without_Influence_q45</members>
-		<members>CampaignInfluenceTroubleshooting/Campaigns_without_Members_fK8</members>
-		<members>CampaignInfluenceTroubleshooting/Opps_With_Influence_rux</members>
-		<members>CampaignInfluenceTroubleshooting/Opps_Without_Influence_6T1</members>
-		<members>CampaignInfluenceTroubleshooting/Opps_with_Contact_Roles_uGU</members>
-		<members>CampaignInfluenceTroubleshooting/Opps_without_Contact_Roles_pab</members>
-		<members>Campaign_Influence_Reports/Closed_Won_Even_Distribution_lqV</members>
-		<members>Campaign_Influence_Reports/Closed_Won_First_Touch_jsp</members>
-		<members>Campaign_Influence_Reports/Closed_Won_Last_Touch_wn0</members>
-		<members>Campaign_Influence_Reports/Created_Even_Distribution_jFo</members>
-		<members>Campaign_Influence_Reports/Created_First_Touch_P7j</members>
-		<members>Campaign_Influence_Reports/Created_Last_Touch_uzV</members>
-		<members>Campaign_Influence_Reports/Opportunities_with_Influence_All_pFD</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_All_bLn</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Prim_gPM</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_All_8LN</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Even_s7F</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_First_exL</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Last_sSw</members>
-		<members>Campaign_Influence_Reports/Opps_Closed_Won_by_Campaign_Type_Prim_1Vc</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_All_4sq</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Primary_RVc</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_All_1BW</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Even_35j</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_First_GEX</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Last_hRx</members>
-		<members>Campaign_Influence_Reports/Opps_Created_by_Campaign_Type_Prim_gWn</members>
-		<members>Campaign_Influence_Reports/Won_Opportunities_with_Influence_All_WBT</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_with_Influence</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_with_Members</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_without_Influence</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_without_Members</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_With_Influence</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_Without_Influence</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_with_Contact_Roles</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_without_Contact_Roles</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Closed_Won_Even_Distribution</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Closed_Won_First_Touch</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Closed_Won_Last_Touch</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Created_Even_Distribution</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Created_First_Touch</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Created_Last_Touch</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opportunities_with_Influence_All</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_All</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_Prim</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_Type_All</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_Type_Even</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_Type_First</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_Type_Last</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Closed_Won_by_Campaign_Type_Prim</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_All</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_Primary</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_Type_All</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_Type_Even</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_Type_First</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_Type_Last</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Opps_Created_by_Campaign_Type_Prim</members>
+		<members>cfl_Campaign_Influence_Reports/cfl_Won_Opportunities_with_Influence_All</members>
 		<name>Report</name>
 	</types>
 	<version>62.0</version>
