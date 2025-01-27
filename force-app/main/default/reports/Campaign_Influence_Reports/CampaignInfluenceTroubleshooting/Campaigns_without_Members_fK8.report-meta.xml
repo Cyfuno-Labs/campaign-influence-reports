@@ -29,12 +29,6 @@
         <aggregateTypes>Sum</aggregateTypes>
         <field>CDF1</field>
     </columns>
-    <crossFilters>
-        <operation>without</operation>
-        <primaryTableColumn>CAMPAIGN_ID</primaryTableColumn>
-        <relatedTable>CampaignMember-ContactOrLead</relatedTable>
-        <relatedTableJoinColumn>Campaign</relatedTableJoinColumn>
-    </crossFilters>
     <customDetailFormulas>
         <calculatedFormula>1</calculatedFormula>
         <dataType>Double</dataType>
@@ -42,6 +36,15 @@
         <label>PowerOne</label>
         <scale>2</scale>
     </customDetailFormulas>
+    <filter>
+        <criteriaItems>
+            <column>NUM_CONTACTS</column>
+            <columnToColumn>false</columnToColumn>
+            <isUnlocked>true</isUnlocked>
+            <operator>equals</operator>
+            <value>0</value>
+        </criteriaItems>
+    </filter>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>
