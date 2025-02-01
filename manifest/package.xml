@@ -11,10 +11,12 @@
 		<name>Dashboard</name>
 	</types>
 	<types>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_by_Type</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_with_Influence</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_with_Members</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_without_Influence</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_without_Members</members>
+		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_without_Type</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_With_Influence</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_Without_Influence</members>
 		<members>cfl_CampaignInfluenceTroubleshooting/cfl_Opps_with_Contact_Roles</members>

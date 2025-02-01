@@ -209,7 +209,7 @@
                 <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
                 <componentType>RichText</componentType>
                 <dashboardComponentContents>
-                    <richTextContent>[{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;20px\&amp;quot;,\&amp;quot;bold\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Improving Opportunity Contact Role Association\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Work with Sales Team to select matching Contacts.\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/blog.qflow.ai\/post\/ensure-opportunity-contacts-on-pipeline-salesforce\/\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Enforce Opportunity Contact Roles with Validation Rule\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot; (this only enforces \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;at least one)\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Automatically add the \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;italic\&amp;quot;:true,\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/www.youtube.com\/watch?v=8oFVoMmruZM\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Account\&amp;#39;s Contacts\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;, or \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;italic\&amp;quot;:true,\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/www.youtube.com\/watch?v=RodOeVTAje0\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;select from Contact\&amp;#39;s Activities\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot; (a bit more focused)\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\&amp;quot;}]</richTextContent>
+                    <richTextContent>[{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;20px\&amp;quot;,\&amp;quot;bold\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Improving Opportunity Contact Role Association\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Work with Sales Team to select matching Contacts.\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/blog.qflow.ai\/post\/ensure-opportunity-contacts-on-pipeline-salesforce\/\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Enforce Opportunity Contact Roles with Validation Rule\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot; (this only enforces \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;at least one)\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Automatically add the \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;italic\&amp;quot;:true,\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/www.youtube.com\/watch?v=8oFVoMmruZM\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Account\&amp;#39;s Contacts\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;, or \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;italic\&amp;quot;:true,\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/www.youtube.com\/watch?v=RodOeVTAje0\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;select from Contact\&amp;#39;s Activities\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;color\&amp;quot;:\&amp;quot;#091a3e\&amp;quot;,\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;italic\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot; (a bit more focused)\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;Auto-associate Contacts to Opportunities via Contact Roles using its Tasks, Events, and Campaigns. \&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;,\&amp;quot;color\&amp;quot;:\&amp;quot;#0d33b6\&amp;quot;,\&amp;quot;link\&amp;quot;:\&amp;quot;https:\/\/appexchange.salesforce.com\/appxListingDetail?listingId=ddae720b-8757-4646-8acf-c973660edb97&amp;amp;utm_source=cyfuno&amp;amp;utm_medium=embedded-app&amp;amp;utm_content=influence-dashboard\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;AppExchange\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;align\&amp;quot;:\&amp;quot;left\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\&amp;quot;}]</richTextContent>
                 </dashboardComponentContents>
                 <groupingSortProperties/>
             </dashboardComponent>
@@ -353,6 +353,104 @@
             </dashboardComponent>
             <rowIndex>14</rowIndex>
             <rowSpan>4</rowSpan>
+        </dashboardGridComponents>
+        <dashboardGridComponents>
+            <colSpan>4</colSpan>
+            <columnIndex>0</columnIndex>
+            <dashboardComponent>
+                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
+                <componentType>RichText</componentType>
+                <dashboardComponentContents>
+                    <richTextContent>[{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;size\&amp;quot;:\&amp;quot;20px\&amp;quot;,\&amp;quot;bold\&amp;quot;:true},\&amp;quot;insert\&amp;quot;:\&amp;quot;Improving Data Quality\&amp;quot;},{\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;The sample dashboards and reports in this bundle often use Campaign Type as a dimension, or way of slicing results.\&amp;quot;},{\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\\n\&amp;quot;},{\&amp;quot;attributes\&amp;quot;:{\&amp;quot;size\&amp;quot;:\&amp;quot;16px\&amp;quot;},\&amp;quot;insert\&amp;quot;:\&amp;quot;How ever you decide to group your results, be sure that Campaigns have these values filled in. There\&amp;#39;s no real magic here, though to help improve your data quality in the future you can consider using Validation Rules and perhaps default values.\&amp;quot;},{\&amp;quot;insert\&amp;quot;:\&amp;quot;\\n\&amp;quot;}]</richTextContent>
+                </dashboardComponentContents>
+                <groupingSortProperties/>
+            </dashboardComponent>
+            <rowIndex>18</rowIndex>
+            <rowSpan>8</rowSpan>
+        </dashboardGridComponents>
+        <dashboardGridComponents>
+            <colSpan>4</colSpan>
+            <columnIndex>4</columnIndex>
+            <dashboardComponent>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
+                <chartAxisRange>Auto</chartAxisRange>
+                <chartSummary>
+                    <axisBinding>y</axisBinding>
+                    <column>RowCount</column>
+                </chartSummary>
+                <componentType>Bar</componentType>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
+                <displayUnits>Auto</displayUnits>
+                <drillEnabled>false</drillEnabled>
+                <drillToDetailEnabled>false</drillToDetailEnabled>
+                <enableHover>false</enableHover>
+                <expandOthers>false</expandOthers>
+                <groupingColumn>CAMPAIGN_TYPE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortColumn>RowCount</sortColumn>
+                        <sortOrder>d</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
+                <header>Campaigns by Type</header>
+                <legendPosition>Bottom</legendPosition>
+                <report>cfl_Campaign_Influence_Reports/cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_by_Type</report>
+                <showPercentage>false</showPercentage>
+                <showPicturesOnCharts>false</showPicturesOnCharts>
+                <showValues>true</showValues>
+                <sortBy>RowLabelAscending</sortBy>
+                <useReportChart>false</useReportChart>
+            </dashboardComponent>
+            <rowIndex>18</rowIndex>
+            <rowSpan>8</rowSpan>
+        </dashboardGridComponents>
+        <dashboardGridComponents>
+            <colSpan>4</colSpan>
+            <columnIndex>8</columnIndex>
+            <dashboardComponent>
+                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
+                <chartAxisRange>Auto</chartAxisRange>
+                <chartSummary>
+                    <axisBinding>y</axisBinding>
+                    <column>RowCount</column>
+                </chartSummary>
+                <componentType>Column</componentType>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
+                <dashboardFilterColumns>
+                    <column>CREATED_DATE</column>
+                </dashboardFilterColumns>
+                <decimalPrecision>-1</decimalPrecision>
+                <displayUnits>Auto</displayUnits>
+                <drillEnabled>false</drillEnabled>
+                <drillToDetailEnabled>false</drillToDetailEnabled>
+                <enableHover>false</enableHover>
+                <expandOthers>false</expandOthers>
+                <groupingColumn>CREATED_DATE</groupingColumn>
+                <groupingSortProperties>
+                    <groupingSorts>
+                        <groupingLevel>g1</groupingLevel>
+                        <sortOrder>a</sortOrder>
+                    </groupingSorts>
+                </groupingSortProperties>
+                <header>Campaigns without Type</header>
+                <legendPosition>Bottom</legendPosition>
+                <report>cfl_Campaign_Influence_Reports/cfl_CampaignInfluenceTroubleshooting/cfl_Campaigns_without_Type</report>
+                <showPercentage>false</showPercentage>
+                <showValues>true</showValues>
+                <sortBy>RowLabelAscending</sortBy>
+                <useReportChart>false</useReportChart>
+            </dashboardComponent>
+            <rowIndex>18</rowIndex>
+            <rowSpan>8</rowSpan>
         </dashboardGridComponents>
         <numberOfColumns>12</numberOfColumns>
         <rowHeight>36</rowHeight>
