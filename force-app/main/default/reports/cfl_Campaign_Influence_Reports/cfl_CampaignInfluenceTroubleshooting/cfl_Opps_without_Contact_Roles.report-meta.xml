@@ -60,15 +60,6 @@
         <label>PowerOne</label>
         <scale>2</scale>
     </customDetailFormulas>
-    <filter>
-        <criteriaItems>
-            <column>WON</column>
-            <columnToColumn>false</columnToColumn>
-            <isUnlocked>true</isUnlocked>
-            <operator>equals</operator>
-            <value>1</value>
-        </criteriaItems>
-    </filter>
     <format>Summary</format>
     <groupingsDown>
         <dateGranularity>Day</dateGranularity>
