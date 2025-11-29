@@ -4,6 +4,15 @@
   "hasSampleData": true,
   "features": ["SalesUser", "ServiceCloud", "MarketingUser", "PardotScFeaturesCampaignInfluence"],
   "settings": {
+    "mobileSettings" : {
+        "enableS1EncryptedStoragePref2": false
+    },  
+    "securitySettings": {
+      "enableAuditFieldsInactiveOwner": true
+    },
+    "userManagementSettings": {
+      "permsetsInFieldCreation": true
+    },
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled":true
     },

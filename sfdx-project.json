@@ -5,7 +5,6 @@
       "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
       "default": true,
-      "definitionFile": "config/project-scratch-def.json",
       "package": "campaign-influence-reports",
       "versionDescription": ""
     },
@@ -18,5 +17,8 @@
   "name": "campaign-influence-reports",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "62.0"
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "campaign-influence-reports": "0HoV40000000PHlKAM"
+  }
 }
