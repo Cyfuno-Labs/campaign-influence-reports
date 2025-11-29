@@ -1,6 +1,11 @@
 ## 2nd Generation Packaging
 Ideally I'd like to make this a 2nd generation package, whereas right now it is a 1st gen Unmanaged Package.
 
+## Challenges
+At the moment, I don't know how we can include Metadata that requires CampaignInfluence to be enabled and the permission assigned to the deploying user. These 2 things are what allow the `CampaignInfluence` object to be seen.
+
+If you have knowledge to unlock this, let us know!!!
+
 
 ## Commands to try later
 ```
